@@ -1,0 +1,3 @@
+C:\Users\zecma\Desktop\Skola\Programiranje\Projekat\Projekat\Debug\Projekat.vcxprojAssemblyReference.cache
+C:\Users\zecma\Desktop\Skola\Programiranje\Projekat\Projekat\Debug\Projekat.MyForm.resources
+C:\Users\zecma\Desktop\Skola\Programiranje\Projekat\Projekat\Debug\Projekat.vcxproj.GenerateResource.cache

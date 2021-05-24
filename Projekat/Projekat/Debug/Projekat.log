@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\zecma\Desktop\Skola\Programiranje\Projekat\Projekat\MyForm.h(400,21): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+C:\Users\zecma\Desktop\Skola\Programiranje\Projekat\Projekat\MyForm.h(401,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zecma\Desktop\Skola\Programiranje\Projekat\Projekat\MyForm.h(410,20): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+C:\Users\zecma\Desktop\Skola\Programiranje\Projekat\Projekat\MyForm.h(411,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zecma\Desktop\Skola\Programiranje\Projekat\Projekat\MyForm.h(420,20): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+C:\Users\zecma\Desktop\Skola\Programiranje\Projekat\Projekat\MyForm.h(421,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Projekat.vcxproj -> C:\Users\zecma\Desktop\Skola\Programiranje\Projekat\Debug\Projekat.exe
